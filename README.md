@@ -8,5 +8,4 @@
 
 ![most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=d1s4rr4y&theme=merko&show_icons=true&hide_border=true&layout=compact)
 
-
-
+![Leetcode Stats](https://leetcard.jacoblin.cool/d1s4rr4y)
